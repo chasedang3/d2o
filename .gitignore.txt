@@ -1,0 +1,17 @@
+# Node modules for frontend
+/d2o-frontend/node_modules
+
+# Output directories for Angular
+/d2o-frontend/dist
+/d2o-frontend/.angular
+
+# ASP.NET Core files
+/d2o-backend/bin
+/d2o-backend/obj
+
+# VS Code settings and other IDE configs
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

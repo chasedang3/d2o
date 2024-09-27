@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\d2o-backend.props" />
+</Project>

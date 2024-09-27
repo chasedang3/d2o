@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\d2o\\d2o-technical-test\\d2o-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\d2o-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\d2o-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\models\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\models\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\models\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\models\\addtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|d:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\models\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D0FE17-6C52-4AB3-9B9A-0357AAB8CC97}|d2o-backend\\d2o-backend.csproj|solutionrelative:d2o-backend\\models\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "d2o-backend.http",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\d2o-backend.http",
+              "RelativeDocumentMoniker": "d2o-backend\\d2o-backend.http",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\d2o-backend.http",
+              "RelativeToolTip": "d2o-backend\\d2o-backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-26T08:39:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Program.cs",
+              "RelativeDocumentMoniker": "d2o-backend\\Program.cs",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Program.cs",
+              "RelativeToolTip": "d2o-backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:38:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "d2o-backend\\appsettings.json",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\appsettings.json",
+              "RelativeToolTip": "d2o-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T08:38:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "d2o-backend\\Repositories\\TasksRepository.cs",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "d2o-backend\\Repositories\\TasksRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwG0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:35:10.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "d2o-backend\\Models\\UpdateTaskDto.cs",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\UpdateTaskDto.cs",
+              "RelativeToolTip": "d2o-backend\\Models\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:34:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTaskDto.cs",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\AddTaskDto.cs",
+              "RelativeDocumentMoniker": "d2o-backend\\Models\\AddTaskDto.cs",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\AddTaskDto.cs",
+              "RelativeToolTip": "d2o-backend\\Models\\AddTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:34:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\Entities\\TodoTask.cs",
+              "RelativeDocumentMoniker": "d2o-backend\\Models\\Entities\\TodoTask.cs",
+              "ToolTip": "D:\\d2o\\d2o-technical-test\\d2o-backend\\d2o-backend\\Models\\Entities\\TodoTask.cs",
+              "RelativeToolTip": "d2o-backend\\Models\\Entities\\TodoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:34:36.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

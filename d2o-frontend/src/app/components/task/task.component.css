@@ -1,0 +1,70 @@
+.todo-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.task-input {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.task-filters {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-title {
+  display: flex;
+  gap: 8px;
+  overflow-wrap: anywhere;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+@media (max-width: 768px) {
+  .todo-container {
+    padding: 15px;
+  }
+
+  .task-input {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .task-filters {
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .task-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .delete-button {
+    align-self: flex-end;
+  }
+}
