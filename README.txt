@@ -24,12 +24,12 @@
 
 ### Start the Angular Development Server:
 	ng serve
-The application should be running on http://localhost:4200.
+The application should be running on http://localhost:4200
 
 
 Start the .NET Core API:
 	dotnet run
-The API should be running on https://localhost:7104/api/Tasks.
+The API should be running on https://localhost:7104
 
 
 
