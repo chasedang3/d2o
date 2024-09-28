@@ -31,6 +31,11 @@ Start the .NET Core API:
 	dotnet run
 The API should be running on https://localhost:7104
 
+Setting up your database before running. 
+- Change connection string in appsetting.json to your database.
+- Run command in nugget management console
+`` update-database
+
 
 
  
